@@ -1,0 +1,7 @@
+.nav-link.active{
+    color: red;
+    
+}
+.nav-link{
+    margin-right: 10px;
+}
